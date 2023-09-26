@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "title": "Pollo",
+    "description": "Carnes",
+    "price": 2500,
+    "thumbnail": "2.jpg",
+    "code": "codigo2",
+    "stock": 1
+  },
+  {
+    "id": 2,
+    "title": "Carne de asado",
+    "description": "Carnes",
+    "price": 9500,
+    "thumbnail": "2.jpg",
+    "code": "codigo2",
+    "stock": 1
+  },
+  {
+    "id": 3,
+    "title": "Pescado",
+    "description": "Carnes",
+    "price": 6500,
+    "thumbnail": "2.jpg",
+    "code": "codigo2",
+    "stock": 1
+  }
+]
